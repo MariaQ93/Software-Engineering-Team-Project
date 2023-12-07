@@ -56,10 +56,7 @@ By the end of two sprints, our team successfully achieved the following:
 
 Deployment Model: Transformed the FR1,FR2,FR3,FR8 into a deployment model.
 
-src/: Source code of the project.
-docs/: Documentation and meeting notes.
-design/: Design artifacts including UML diagrams and mockups.
-tests/: Test cases and testing documentation.
+
 
 Running the Project:
   Download src files. compile it and run it.
