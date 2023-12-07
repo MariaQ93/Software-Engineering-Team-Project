@@ -31,6 +31,27 @@ Working on ticket items both individually and collaboratively.
 Conducting code reviews and progress demonstrations.
 Achievements
 
+TIMELINE:
+Dec/1:preject kickoff and sprint 1 planning meeting
+  roles: Menghao Hu was the product owner. Liyin Qin was a scrum Master.
+  Created project repository. 
+  Extended requirements specification document from the second team project submission.
+  established a schedule for sprint 1 and sprint 2.
+
+Dec/2: sprint 1 
+  worked on the product backlog.
+  prioritized our requirements.
+  
+Dec/3: sprint 1 review meeting and Sprint 2 planning meeting
+  work on implementation of FR1, FR2, FR3, and FR8.
+  
+Dec/4: sprint 2 
+  found bugs in the program
+  
+Dec/5: sprint 2 review meeting
+  successfully completed FR1, FR2, FR3 and FR8.
+  created a UML deployment diagram for our project
+  
 By the end of two sprints, our team successfully achieved the following:
 
 Deployment Model: Transformed the FR1,FR2,FR3,FR8 into a deployment model.
@@ -40,5 +61,5 @@ docs/: Documentation and meeting notes.
 design/: Design artifacts including UML diagrams and mockups.
 tests/: Test cases and testing documentation.
 
-Running the Project
-[Instructions on how to set up and run the project, including any required software or dependencies.]
+Running the Project:
+  Download src files. compile it and run it.
