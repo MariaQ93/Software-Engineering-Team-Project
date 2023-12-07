@@ -1,0 +1,6 @@
+Date,Description,Amount,Balance
+2023-01-03,Opening Balance,,3000.00
+2023-01-07,Refund,100.00,3100.00
+2023-01-09,Book Store,-35.50,3064.50
+2023-01-13,Gym Membership,-25.00,3039.50
+2023-01-17,Dental Insurance,-200.00,2839.50

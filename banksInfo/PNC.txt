@@ -1,0 +1,6 @@
+Date,Description,Amount,Balance
+2023-01-01,Opening Balance,,5000.00
+2023-01-05,Paycheck Deposit,1500.00,6500.00
+2023-01-10,Grocery Store,-120.45,6379.55
+2023-01-12,Online Shopping,-50.99,6328.56
+2023-01-15,Utility Bill,-180.00,6148.56

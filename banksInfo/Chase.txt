@@ -1,0 +1,6 @@
+Date,Description,Amount,Balance
+2023-01-02,Opening Balance,,7500.00
+2023-01-06,Freelance Payment,2000.00,9500.00
+2023-01-11,Coffee Shop,-15.75,9484.25
+2023-01-14,Restaurant,-85.20,9399.05
+2023-01-18,Car Loan,-250.00,9149.05

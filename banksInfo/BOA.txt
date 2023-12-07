@@ -1,0 +1,6 @@
+Date,Description,Amount,Balance
+2023-01-04,Opening Balance,,10000.00
+2023-01-08,Bonus,5000.00,15000.00
+2023-01-10,New Laptop,-1200.00,13800.00
+2023-01-16,Phone Bill,-75.00,13725.00
+2023-01-19,Gas Bill,-60.00,13665.00

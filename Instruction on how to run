@@ -1,0 +1,4 @@
+1. Open this in VS code
+2. cd src
+3. javac UserLoginGUI.java
+4. java UserLoginGUI  
