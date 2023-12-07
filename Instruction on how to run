@@ -2,3 +2,7 @@
 2. cd src
 3. javac UserLoginGUI.java
 4. java UserLoginGUI  
+
+
+On the Bank Data Integration Page, enter one of the names under the banksInfo folder, it will
+load the data and display them on the page
