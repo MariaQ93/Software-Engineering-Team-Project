@@ -1,4 +1,6 @@
 # Software Engineering Team Project
+Team Member: Liying Qin, Menghao Hu
+
 Project Overview
 
 This repository contains the artifacts for our final project submission in CS 1530: Software Engineering. Our team embarked on an exciting journey to model Scrum software development and create the foundation of bank data integration and budget management tool.
