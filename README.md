@@ -1,19 +1,19 @@
 # Software Engineering Team Project
-#Project Overview
+Project Overview
 
 This repository contains the artifacts for our final project submission in CS 1530: Software Engineering. Our team embarked on an exciting journey to model Scrum software development and create the foundation of a coding challenge game designed for people of all ages.
 
-#Goal
+Goal
 The primary goal of this project was to simulate a real-world software development environment using Scrum methodology and to develop a foundational structure for a coding challenge game that is engaging and educational.
 
-#Team Composition
+Team Composition
 
 Developers: All team members
 Product Owner: Menghao Hu
 Scrum Master: Liyin Qin
 Each member contributed as a developer, with some holding dual roles as either the Product Owner or Scrum Master.
 
-#Development Process
+Development Process
 
 Our development process was rooted in the principles of Scrum. We began by defining the problem statement and then moved on to convert the first five functional requirements into backlog items. Key steps in our process included:
 
@@ -42,5 +42,5 @@ docs/: Documentation and meeting notes.
 design/: Design artifacts including UML diagrams and mockups.
 tests/: Test cases and testing documentation.
 
-#Running the Project
+Running the Project
 [Instructions on how to set up and run the project, including any required software or dependencies.]
