@@ -1,10 +1,10 @@
 # Software Engineering Team Project
 Project Overview
 
-This repository contains the artifacts for our final project submission in CS 1530: Software Engineering. Our team embarked on an exciting journey to model Scrum software development and create the foundation of a coding challenge game designed for people of all ages.
+This repository contains the artifacts for our final project submission in CS 1530: Software Engineering. Our team embarked on an exciting journey to model Scrum software development and create the foundation of bank data integration and budget management tool.
 
 Goal
-The primary goal of this project was to simulate a real-world software development environment using Scrum methodology and to develop a foundational structure for a coding challenge game that is engaging and educational.
+The primary goal of this project was to simulate a real-world software development environment using Scrum methodology and to develop a foundational structure for a bank data integration and budget management tool
 
 Team Composition
 
@@ -33,9 +33,7 @@ Achievements
 
 By the end of two sprints, our team successfully achieved the following:
 
-Deployment Model: Transformed the first two functional requirements into a deployment model.
-Working GUI: Developed a functional and user-friendly graphical user interface for the game.
-Repository Structure
+Deployment Model: Transformed the FR1,FR2,FR3,FR8 into a deployment model.
 
 src/: Source code of the project.
 docs/: Documentation and meeting notes.
